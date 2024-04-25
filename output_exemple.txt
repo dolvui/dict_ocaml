@@ -1,0 +1,14 @@
+entries:$
+- anaconda$
+- cobra$
+- python$
+- snake$
+definition python:$
+- dynamic scripting language$
+- snake$
+definition snake:$
+- limbless, elongated reptilian$
+synonyms snake:$
+- anaconda$
+- cobra$
+- python$

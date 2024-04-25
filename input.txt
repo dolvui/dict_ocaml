@@ -1,0 +1,5 @@
+entries
+definition python
+
+definition snake
+synonyms snake
